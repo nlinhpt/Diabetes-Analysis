@@ -8,7 +8,7 @@ This project analyzes risk factors and builds predictive models for diabetes usi
 
 Diabetes is rapidly increasing worldwide and poses a serious threat to public health. The number of people affected is expected to rise by over 50% from 415 million in 2015 to 642 million by 2040, especially in developing countries.
 
-![image1](image1)
+![Diabetes estimate worldwide](est.png)
 
 The chart above illustrates the projected growth in diabetes cases across different regions of the world. In response to this alarming trend, this project focuses on analyzing risk factors for diabetes through data, including the following sections:
 
